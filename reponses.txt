@@ -1,0 +1,7 @@
+3.2 La commande "git status" m'indique qu'il existe un fichier texte dans le répertoire, cecpendant celui-ci n'a pas encore été ajouté aux changements.
+
+3.4 Cette fois, le fichier est ajouté aux changements mais le commit n'a pas encore eu lieu.
+
+3.6 Le fichier a bien été commit.
+
+3.8 On obtient plus de détails sur le résultat du commit, par exemple le nombre de lignes qui a été ajouté au fichier.
