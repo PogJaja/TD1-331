@@ -14,3 +14,9 @@ le
 merge
 va
 m'aider
+
+Je
+vais
+créer
+un
+conflit
