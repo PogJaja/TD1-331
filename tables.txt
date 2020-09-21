@@ -8,3 +8,9 @@ Equipages
 Train
 Gare
 Conducteur
+
+Mais
+le
+merge
+va
+m'aider
