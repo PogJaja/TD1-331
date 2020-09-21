@@ -8,3 +8,9 @@ Equipages
 Train
 Gare
 Conducteur
+
+Je
+vais
+créer
+un
+conflit
